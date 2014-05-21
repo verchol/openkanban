@@ -4,4 +4,4 @@ node_js:
 install:
   - "npm install"
 env:
-  - DEMO_OPTIONS="-t 5000"
+  - DEMO_OPTIONS="-t 5000" 
